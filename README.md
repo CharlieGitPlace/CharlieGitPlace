@@ -1,70 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+Specialist;PHP+Developer;Building+Modern+Web+Apps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Charlie&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Charlie profile banner" />
+
+  <h1>Hey, I'm Charlie 👋</h1>
+  <h3>Full-Stack Developer · JavaScript & PHP</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+useful+web+experiences;Focused+on+clean%2C+maintainable+code;Always+learning+and+improving" alt="A short introduction" />
+
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=CharlieGitPlace&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors" />
 </div>
 
-<h1 align="center">Hi, I'm Charlie 👋</h1>
+---
 
-<p align="center">
-  <strong>Full Stack Developer</strong> passionate about building clean, scalable, and user-friendly web applications.
-</p>
+## ✨ A little about me
 
-<p align="center">
-  I mainly work with <strong>JavaScript</strong> and also have solid experience with <strong>PHP</strong>.
-</p>
+I'm a full-stack developer who enjoys turning ideas into clean, practical web applications. JavaScript is my primary language, and I also work with PHP on backend development and business logic. I care about performance, maintainability, and creating experiences that are straightforward to use.
+
+- 💻 Building modern web solutions across the stack
+- 🧩 Interested in thoughtful, maintainable software
+- 🌱 Always learning and exploring better ways to build
+
+## 🛠️ Technologies I use
+
+<div align="center">
+
+**Languages & web**  
+<img src="https://skillicons.dev/icons?i=js,php,html,css" alt="JavaScript, PHP, HTML, and CSS" />
+
+**Frameworks, runtime & data**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb" alt="React, Node.js, Express, MySQL, and MongoDB" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code" />
+
+</div>
+
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CharlieGitPlace&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Charlie's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieGitPlace&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=CharlieGitPlace&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-### 🚀 About Me
-- 💻 Full stack developer focused on building modern web solutions
-- JavaScript is my primary strength
-- Experienced with PHP for backend development and business logic
-- Passionate about clean code, performance, and maintainable systems
-- Always learning and improving with new technologies
-
----
-
-### 🧰 Tech Stack
-
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### Backend / Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlieGitPlace&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieGitPlace&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-### 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/your-name
-- Portfolio: yourportfolio.com
-
----
-
-> "I build practical, scalable, and user-focused digital experiences."
+<div align="center">
+  <i>Thanks for stopping by — feel free to explore my repositories and say hello through GitHub.</i>
+</div>
