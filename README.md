@@ -38,10 +38,10 @@ I'm a full-stack developer who enjoys turning ideas into clean, practical web ap
 ## 📊 GitHub at a glance · GitHub level
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CharlieGitPlace&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=tokyonight" alt="Charlie's GitHub statistics and rank level" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieGitPlace&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Most used languages" />
+  <a href="https://github.com/CharlieGitPlace"><img height="165" src="https://github-readme-stats.vercel.app/api?username=CharlieGitPlace&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=tokyonight" alt="Charlie's GitHub statistics and rank level" /></a>
+  <a href="https://github.com/CharlieGitPlace"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieGitPlace&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Most used languages" /></a>
   <br />
-  <img src="https://streak-stats.demolab.com?user=CharlieGitPlace&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/CharlieGitPlace"><img src="https://streak-stats.demolab.com?user=CharlieGitPlace&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" /></a>
 </div>
 
 ---
