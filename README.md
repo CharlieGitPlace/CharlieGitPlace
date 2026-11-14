@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Charlie&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38"[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Charlie&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Charlie header" />
 
   <h1>Hey, I'm Charlie 👋</h1>
   <h3>Full-Stack Developer · JavaScript & PHP</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+useful+web+experiences;Focused+on+cle[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+useful+web+experiences;Focused+on+clean+solutions;Turning+ideas+into+practical+products" alt="Typing animation" />
 
   <br />
   <img src="https://komarev.com/ghpvc/?username=CharlieGitPlace&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors" />
@@ -14,7 +14,7 @@
 
 ## ✨ A little about me
 
-I'm a full-stack developer who enjoys turning ideas into clean, practical web applications. JavaScript is my primary language, and I also work with PHP on backend development and business logic. I[...]
+I'm a full-stack developer who enjoys turning ideas into clean, practical web applications. JavaScript is my primary language, and I also work with PHP on backend development and business logic. I build practical solutions with an emphasis on maintainability, usability, and thoughtful execution.
 
 - 💻 Building modern web solutions across the stack
 - 🧩 Interested in thoughtful, maintainable software
