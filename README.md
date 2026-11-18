@@ -38,6 +38,8 @@ I'm a full-stack developer who enjoys turning ideas into clean, practical web ap
 ## 📊 GitHub at a glance
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlieGitPlace&show_icons=true&theme=tokyonight&hide_border=true" alt="Charlie GitHub stats" />
+  <br />
   <a href="https://github.com/CharlieGitPlace">
     <img src="https://streak-stats.demolab.com?user=CharlieGitPlace&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
   </a>
