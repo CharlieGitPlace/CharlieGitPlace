@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Charlie&fontSize=58&fontColor=ffffff&fontFamily=Inter&animation=fadeIn&fontAlignY=38" alt="Charlie — full-stack developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Charlie&fontSize=58&fontColor=ffffff&font=Poppins&fontAlignY=38&animation=fadeIn" alt="Charlie — full-stack developer" />
 
-  <h1>Hey, I'm Charlie 👋</h1>
-  <h3>Full-Stack Developer · JavaScript &amp; PHP</h3>
+  # Hey, I'm Charlie 👋
+  ### Full-Stack Developer · JavaScript &amp; PHP
 
-  <p>Building thoughtful, useful web experiences with a clean, modern approach.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+useful+web+experiences;Focused+on+clean%2C+maintainable+code;Always+learning+and+creating" alt="Building useful web experiences · Focused on clean, maintainable code · Always learning and creating" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+useful+web+experiences;Focused+on+clean%2C+maintainable+code;Always+learning+and+creating" alt="Building useful web experiences · Focused on clean, maintainable code · Always learning and creating" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=CharlieGitPlace&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors" />
 </div>
@@ -15,7 +14,7 @@
 
 ## ✨ A little about me
 
-I'm a full-stack developer who enjoys turning ideas into clean, practical web applications. JavaScript is my primary language, and I also work with PHP on backend development and business logic. I care about building thoughtful experiences and writing maintainable software.
+I'm a full-stack developer who enjoys turning ideas into clean, practical web applications. JavaScript is my primary language, and I also work with PHP on backend development and business logic.
 
 - 💻 Building modern web solutions across the stack
 - 🧩 Interested in thoughtful, maintainable software
