@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Hey%20I'm%20Charlie&fontSize=52&fontColor=ffffff&font=Montserrat&fontAlignY=38&animation=fadeIn&v=2" alt="Hey, I'm Charlie — full-stack developer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Charlie&fontSize=64&fontColor=ffffff&font=Montserrat&fontAlignY=42&animation=fadeIn&v=3" alt="Charlie — full-stack developer" />
 
   # Hey, I'm Charlie 👋
   ### Full-Stack Developer · JavaScript &amp; PHP
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+useful+web+experiences;Focused+on+clean%2C+maintainable+code;Always+learning+and+creating&v=2" alt="Building useful web experiences · Focused on clean, maintainable code · Always learning and creating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+useful+web+experiences;Focused+on+clean%2C+maintainable+code;Always+learning+and+creating&v=3" alt="Building useful web experiences · Focused on clean, maintainable code · Always learning and creating" />
 
   <br />
   <img src="https://komarev.com/ghpvc/?username=CharlieGitPlace&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors" />
